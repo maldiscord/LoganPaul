@@ -1,0 +1,6 @@
+name: Loganpaul
+version: ${project.version}
+main: lol.maltest.loganpaul.Loganpaul
+commands:
+  loganpaul:
+    description: "Help me help you!"
